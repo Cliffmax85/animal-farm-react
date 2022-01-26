@@ -1,0 +1,11 @@
+header {
+    color: purple;
+    text-transform: uppercase;
+    font-weight: bold;
+    height: 40px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
