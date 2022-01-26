@@ -1,11 +1,13 @@
 footer {
-    color: purple;
+    color: white;
     text-align: right;
+    background-color: black;
     text-transform: uppercase;
     height: 100px;
     font-weight: bolder;
     display: flex;
     justify-content: flex-end;
-    width: 90%;
-    bottom: 0;
+    width: 100%;
+    bottom: 0px;
+    padding: 0%;
 }
