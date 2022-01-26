@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <div>
         <Header name="Joey Joe Jo Shabadoo" />
-        <Main animals = {{ animals }} />
+        <Main animals = {animals} />
         <Footer email="animal@farm.com" />
       </div>
     </div>
