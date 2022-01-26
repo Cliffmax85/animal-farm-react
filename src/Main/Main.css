@@ -1,12 +1,17 @@
 main {
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     background-size: cover;
     height: calc(100vh - 80px);
     align-content: flex-start;
+    background-image: cover;
   }
 
-  #root {
+#root {
     height: 100%;
   }
+
+background-image {
+    background-image: cover;
+}
